@@ -1,0 +1,2 @@
+webbench -c 500 -t 30 http://forkplayer.com/
+参数说明：-c表示并发数，-t表示时间(秒)
